@@ -4,11 +4,11 @@ Legendary Missions is a mission script for Artemis: Cosmos
 
 It was written by:
 
-Doug Reichard
-Darrin Bright
-Mike Substelny
-and
-Thom Robertson
+- Doug Reichard
+- Darrin Bright
+- Mike Substelny
+- and
+- Thom Robertson
 
 The mission was created as part of the initial release of Artemis: Cosmos to test the engine. The goal is to provide a set of missions that match the out of the box missions provided by Artemis: Spaceship Bridge Simulator.
 

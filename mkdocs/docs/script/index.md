@@ -1,10 +1,10 @@
 # The mission startup
-All Artemis: Cosmos Missions start by running script.py. Without reusable code, the scripter would need to write code to listen for al the events the engine fires to the script side.
+All Artemis: Cosmos Missions start by running script.py. Without reusable code, the scripter would need to write code to listen for all the events the engine fires to the script side.
 
 This section begins to tell how BasicSiege runs from this startup script.py.
 
 # script.py startup
-The scripy.py for BasicSiege leverages the sbs_utils library and MAST Runtime. The following code is added to load the library and it adds functons that implement things to handle the events from the engine.
+The scripy.py for BasicSiege leverages the sbs_utils library and MAST Runtime. The following code must be added to load the library into any mission's script.py. It adds functons that implement things to handle the events from the engine.
 
 ===  ":simple-python: Python"
 
